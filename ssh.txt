@@ -1,5 +1,5 @@
 for win, use Gitbash
-#ssh-keygen -t rsa -b 4096 -C "rupynick@gmail.com"
+#ssh-keygen -t rsa -b 4096 -C "your@mail"
 #eval $(ssh-agent -s)
 #ssh-add ~/.ssh/id_rsa
 #clip < ~/.ssh/id_rsa.pub
