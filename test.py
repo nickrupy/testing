@@ -1,5 +1,0 @@
-print('hello')
-print('world!A')
-print('new line')
-print('new line2')
-print('new test')
